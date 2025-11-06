@@ -12,6 +12,8 @@
     "next": "16.0.1",
     "react": "19.2.0",
     "react-dom": "19.2.0",
+    "react-dropzone": "^14.3.8",
+    "signature_pad": "^5.1.1",
     "xlsx": "^0.18.5"
   },
   "devDependencies": {

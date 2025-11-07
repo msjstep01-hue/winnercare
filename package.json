@@ -6,27 +6,27 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "eslint"
+    "lint": "next lint"
   },
   "dependencies": {
-    "next": "16.0.1",
-    "react": "19.2.0",
-    "react-dom": "19.2.0",
+    "next": "14.2.13",
+    "react": "18.3.1",
+    "react-dom": "18.3.1",
     "react-dropzone": "^14.3.8",
     "signature_pad": "^5.1.1",
     "xlsx": "^0.18.5"
   },
   "devDependencies": {
-    "@tailwindcss/postcss": "^4",
-    "@types/node": "^20",
-    "@types/react": "^19",
-    "@types/react-dom": "^19",
+    "@tailwindcss/postcss": "^4.0.0",
+    "@types/node": "^20.11.30",
+    "@types/react": "^18.3.4",
+    "@types/react-dom": "^18.3.0",
     "@types/signature_pad": "^2.3.6",
     "autoprefixer": "^10.4.21",
-    "eslint": "^9",
-    "eslint-config-next": "16.0.1",
+    "eslint": "^9.14.0",
+    "eslint-config-next": "14.2.13",
     "postcss": "^8.5.6",
-    "tailwindcss": "^4.1.16",
-    "typescript": "^5"
+    "tailwindcss": "^3.4.10",
+    "typescript": "^5.6.3"
   }
 }
